@@ -13,7 +13,7 @@ A Convolutional Neural Network (CNN) built using TensorFlow 2.0 and Keras to cla
 - Achieved over 63% accuracy (Goal: 63%, Bonus: 70%)
 
 ## 🔗 Google Colab
-[Open in Colab](https://colab.research.google.com/github/YourUsername/cat-dog-image-classifier/blob/main/cats_and_dogs_classifier.ipynb)
+https://colab.research.google.com/github/freeCodeCamp/boilerplate-cat-and-dog-image-classifier/blob/master/fcc_cat_dog.ipynb
 
 ## 📊 Example Outputs
 Model predictions visualized on test images with confidence levels.
